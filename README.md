@@ -1,2 +1,4 @@
 # wad_ai
-CVPR 2018 WAD Video Segmentation Challenge
+Kaggle: CVPR 2018 WAD Video Segmentation Challenge
+
+wad.ai: Task4: Instance-level Video Segmentation
